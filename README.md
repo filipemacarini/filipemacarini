@@ -13,6 +13,8 @@
 ##
 
 <div>
-  <a href="https://instagram.com/filipeemanuelmacariniroco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@filipemacarini" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/filipemacarini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:filipemacarini@proton.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@devfilipe"><img src="https://img.shields.io/badge/-tiktok-%23262626?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
