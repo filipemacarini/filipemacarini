@@ -1,7 +1,5 @@
 ## <code>Hello, World!</code>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipemacarini&show_icons=true&theme=dark) 
-
 <div class="languages">
   <img alt="Filipe CSharp" title="C#" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Filipe Python" title="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
