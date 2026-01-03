@@ -1,4 +1,5 @@
 ## <code>Hello, World!</code>
+--
 
 <div class="languages">
   <img alt="Filipe CSharp" title="C#" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -8,7 +9,7 @@
   <img alt="Filipe SQLite" title="SQLite" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 </div>
   
-##
+---
 
 <div>
   <a href="https://youtube.com/@filipemacarini" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
