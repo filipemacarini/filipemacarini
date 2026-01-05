@@ -8,7 +8,7 @@
   <img alt="HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img alt="SQLite" title="SQLite" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-  <img alt="Postgree" title="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="Postgree" title="Postgree" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ##
