@@ -2,11 +2,13 @@
 <br>
 
 <div class="languages">
-  <img alt="Filipe CSharp" title="C#" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Filipe Python" title="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Filipe HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img alt="Filipe CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img alt="Filipe SQLite" title="SQLite" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+  <img alt="CSharp" title="C#" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Python" title="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Python" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img alt="SQLite" title="SQLite" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+  <img alt="Postgree" title="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ##
