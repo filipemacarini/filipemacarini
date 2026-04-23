@@ -1,6 +1,8 @@
 ## <code>Hello, World!</code>
 > ### $ cat github-users.txt | grep filipemacarini </br>
 > ### \> I'm Filipe, a programming student focused on backend development and problem solving.
+<br>
+
 ## > Core Skills
 <div class="languages">
   <img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -31,9 +33,16 @@
   <img alt="SSH" title="SSH" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
 </div>
 
-## > Contact
+## > Achievements
+* 🥇 Gold — OMAP (Mathematics Olympiad of the State Schools of Paraná)
+* 🥈 Silver — OBMEP (Brazilian Mathematics Olympiad for Public Schools)
+* 🥉 Bronze (2x) — OBMEP
+* 🥈 Silver — ONIA (National Artificial Intelligence Olympiad - Brazil)
+<br>
+
+## Contact
 <div>
-  <a href="mailto:filipe.roco@yahoo.com">
+  <a href="mailto:filipe.roco@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
   <a href="https://instagram.com/filipemacarini" target="_blank">
